@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container } from 'react-bootstrap';
 
-const IntroPage = () => {
+const Home = () => {
     return (
         <Container className='text-center my-5'>
             <h1>Welcome to MealDB</h1>
@@ -9,4 +9,4 @@ const IntroPage = () => {
     );
 };
 
-export default IntroPage;
+export default Home;
